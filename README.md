@@ -11,4 +11,4 @@ $ gcc comp.S -o bfcomp -ffreestanding -nostdlib
 $ ./bfcomp file [stack size]
 ```
 
-`out.S` file will be generated. You compile it with GCC or CLang or (G)AS.
+`out.S` file will be generated. Compile it with GCC, CLang or (G)AS.
